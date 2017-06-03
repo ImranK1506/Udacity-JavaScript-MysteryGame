@@ -9,7 +9,7 @@
 * the poison belongs to the ballroom,
 * the trophy belongs to the gallery,
 * the pool stick belongs to the billiards room,
-* and the knife belongs to the dining room.
+* the knife belongs to the dining room.
 
 * Mr. Chaudhury was located in the dining room.
 * Mrs. Sharma was located in the gallery.
