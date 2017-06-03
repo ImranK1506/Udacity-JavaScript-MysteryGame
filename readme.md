@@ -1,6 +1,7 @@
 <h1>Mystery Game</h1>
 
 <h2>Setup</h2>
+
 * Four rooms	: the ballroom, gallery, billiards room, and dining room,
 * Four weapons	: poison, a trophy, a pool stick, and a knife,
 * Four suspects	: Mr. Chaudhury, Mr. Singh, Mrs. Sharma, Mrs. Khan.
